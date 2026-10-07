@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Trang đọc truyện</title>
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- Bước 4: Ảnh truyện -->
+    <img src="https://images.unsplash.com/photo-1516979187457-637abb4f9353"
+         alt="Ảnh truyện"
+         class="story-image">
+
+    <!-- Tiêu đề truyện -->
+    <h1>Kho Tàng Truyện Hay</h1>
+
+    <!-- Bước 1: Mục lục truyện -->
+    <div class="menu">
+        <h2>Mục lục</h2>
+
+        <h5>
+            <a href="#truyen1">Truyện 1: Câu chuyện đầu tiên</a>
+        </h5>
+
+        <h5>
+            <a href="#truyen2">Truyện 2: Cuộc phiêu lưu</a>
+        </h5>
+
+        <h5>
+            <a href="#truyen3">Truyện 3: Người bạn tốt</a>
+        </h5>
+    </div>
+
+    <!-- Bước 2: Nội dung truyện -->
+    <div class="story">
+
+        <h2 id="truyen1">Truyện 1: Câu chuyện đầu tiên</h2>
+
+        <p>
+            Ngày xửa ngày xưa, tại một ngôi làng nhỏ nằm bên cạnh
+            một khu rừng xanh mát, có một cậu bé rất yêu thích khám phá.
+            Mỗi ngày, cậu thường đi dạo quanh làng và tìm hiểu những
+            điều mới mẻ.
+        </p>
+
+        <p>
+            Một ngày nọ, cậu quyết định đi sâu vào khu rừng để tìm
+            hiểu những điều mà trước đây mình chưa từng biết. Trên
+            đường đi, cậu gặp rất nhiều điều thú vị.
+        </p>
+
+
+        <h2 id="truyen2">Truyện 2: Cuộc phiêu lưu</h2>
+
+        <p>
+            Sau một thời gian, cậu bé bắt đầu một cuộc phiêu lưu mới.
+            Cậu mang theo một chiếc ba lô nhỏ và bắt đầu hành trình
+            khám phá những vùng đất xa lạ.
+        </p>
+
+        <p>
+            Trên hành trình, cậu gặp nhiều người bạn mới. Mỗi người
+            đều giúp cậu học được thêm một bài học quý giá trong cuộc sống.
+        </p>
+
+
+        <h2 id="truyen3">Truyện 3: Người bạn tốt</h2>
+
+        <p>
+            Trong cuộc hành trình, cậu gặp một người bạn luôn sẵn sàng
+            giúp đỡ mọi người. Hai người nhanh chóng trở thành bạn tốt
+            và cùng nhau vượt qua rất nhiều khó khăn.
+        </p>
+
+        <p>
+            Cuối cùng, cậu nhận ra rằng điều quý giá nhất trong cuộc sống
+            không phải là những chuyến phiêu lưu mà chính là những người
+            bạn luôn ở bên cạnh và giúp đỡ mình.
+        </p>
+
+    </div>
+
+</div>
+
+</body>
+</html>
