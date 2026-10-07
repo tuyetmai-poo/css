@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Việt Nam</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            color: #222;
+            width: 660px;
+            margin: 30px auto;
+        }
+
+        h1 {
+            font-family: "Times New Roman", serif;
+            font-size: 36px;
+            font-weight: normal;
+            margin: 0;
+            border-bottom: 1px solid #aaa;
+        }
+
+        .subtitle {
+            margin-top: 3px;
+            margin-bottom: 25px;
+        }
+
+        p {
+            text-align: justify;
+            text-indent: 30px;
+            line-height: 1.4;
+            margin-bottom: 12px;
+        }
+
+        .bold {
+            font-weight: bold;
+        }
+
+        .italic {
+            font-style: italic;
+        }
+
+        .blue {
+            color: blue;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>Việt Nam</h1>
+
+<div class="subtitle">
+    Bách khoa toàn thư mở Wikipedia
+</div>
+
+<p>
+    <span class="bold">Việt Nam</span> (tên chính thức:
+    <span class="bold">Cộng hòa Xã hội chủ nghĩa Việt Nam</span>)
+    là một quốc gia nằm ở phía đông, ở giữa Lào và Campuchia,
+    thuộc bán đảo Đông Dương, thuộc khu vực <span class="blue">Đông Nam Á</span>
+    thuộc châu Á.
+</p>
+
+<p>
+    Phía bắc Việt Nam giáp với <span class="blue">Trung Quốc</span>,
+    phía tây Việt Nam giáp với <span class="blue">Lào và Campuchia</span>,
+    phía tây nam giáp với <span class="blue">Vịnh Thái Lan</span>,
+    phía đông và phía nam giáp <span class="blue">biển Đông</span>.
+</p>
+
+<p>
+    Việt Nam đã thiết lập mối quan hệ ngoại giao với 178 quốc gia,
+    quan hệ kinh tế – thương mại – đầu tư với trên 224 quốc gia và vùng lãnh thổ,
+    là thành viên <span class="blue">Liên Hợp Quốc, ASEAN, ASEM, APEC, WTO</span>,
+    Tổ chức quốc tế Pháp ngữ, Phong trào không liên kết, UNESCO
+    và nhiều tổ chức quốc tế khác.
+</p>
+
+<p>
+    Việt Nam vẫn còn gặp phải nhiều vấn đề về kinh tế – xã hội như
+    <span class="blue">nghèo đói, bất bình đẳng về thu nhập,
+    dịch vụ chăm sóc sức khỏe</span> và tình trạng bất bình đẳng giới.
+</p>
+
+</body>
+</html>
