@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Using CSS</title>
+
+    <style>
+        /* Thay đổi font chữ, màu sắc và kích thước */
+        h1 {
+            color: blue;
+            font-family: Tahoma;
+            font-size: 200%;
+        }
+
+        /* Định dạng các thẻ p */
+        p {
+            color: red;
+            font-family: Arial;
+            font-size: 120%;
+            border: 1px solid grey;
+            padding: 10px;
+        }
+
+        /* Định dạng riêng phần tử có id="element1" */
+        #element1 {
+            color: blue;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>Đây là đề mục</h1>
+
+<p>Đây là đoạn văn bản.</p>
+
+<p>Đây là đoạn văn bản.</p>
+
+<p>Đây là đoạn văn bản.</p>
+
+<p id="element1">Đoạn văn bản có thuộc tính id</p>
+
+</body>
+</html>
